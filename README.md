@@ -1,5 +1,11 @@
 Sapient's Coding Round
 
-To-Do
+1. 05/06/2021:
+    - Applied a combination of Oversampling and Undersampling. 
+    - Applied XGBoost
 
-1. Undersampling
+# To-Do:
+1. Apply more bagiing and Boosting techniques
+2. More EDA techniques required for imblanced dataset.
+
+ 
