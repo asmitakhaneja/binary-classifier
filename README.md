@@ -7,5 +7,7 @@ Sapient's Coding Round
 # To-Do:
 1. Apply more bagiing and Boosting techniques
 2. More EDA techniques required for imblanced dataset.
+3. Apply Cross-validation
+4. Appy Ray
 
  
